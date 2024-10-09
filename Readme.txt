@@ -23,3 +23,8 @@ $ git branch -d <local-branch>
 To delete a remote branch, you need to use the "git push" command:
 
 $ git push origin --delete <remote-branch-name>
+
+testing look like ok
+
+
+
