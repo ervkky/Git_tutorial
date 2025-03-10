@@ -4,6 +4,15 @@
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////
+<<<<<<< HEAD
+=======
+git set/check and verigy remote
+git remote -v ////////Verify new remote URL
+git remote show origin////////////To see which remote URL you have currently in this local repository: 
+git remote set-url origin githubrepurl///////////////For adding or changing the remote origin:
+git push -u origin master/////specify upstream to set-url
+
+>>>>>>> master
 
 git procedure
 $ git config --global user.name "Your Name Comes Here"
