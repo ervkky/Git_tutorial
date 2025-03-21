@@ -11,6 +11,16 @@ git remote -v ////////Verify new remote URL
 git remote show origin////////////To see which remote URL you have currently in this local repository: 
 git remote set-url origin githubrepurl///////////////For adding or changing the remote origin:
 git push -u origin master/////specify upstream to set-url
+for pull new repository and to add origin
+git init
+git remote add origin https://github.com/ervkky/Timer_No_RTC
+git fetch origin///////////fetch master
+git checkout main////////////switch branch to main
+git pull origin main//////pull verify main
+If you cloned the repository directly using git clone <repository-URL>,
+ you can skip steps 1 and 2 and directly run step 5. 
+
+
 
 >>>>>>> master
 
