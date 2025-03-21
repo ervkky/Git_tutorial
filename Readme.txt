@@ -13,7 +13,7 @@ git remote set-url origin githubrepurl///////////////For adding or changing the 
 git push -u origin master/////specify upstream to set-url
 for pull new repository and to add origin
 git init
-git remote add origin https://github.com/ervkky/Timer_No_RTC
+git remote add origin <repository-URL>
 git fetch origin///////////fetch master
 git checkout main////////////switch branch to main
 git pull origin main//////pull verify main
